@@ -1,0 +1,4 @@
+requests==2.31.0
+pytrends==4.9.2
+pandas>=3.0.0
+numpy>=2.0.0
